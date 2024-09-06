@@ -39,6 +39,10 @@ modules:
       - kate
       - kate-krunner-plugin
       - kate-plugins
+      - kcharselect
+      - kfind
+      - krfb
+      - kwalletmanager5
 
   - type: default-flatpaks
     notify: true # Send notification after install/uninstall is finished (true/false)
