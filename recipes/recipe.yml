@@ -26,6 +26,7 @@ modules:
       - neovim
       - fish
       - fastfetch
+      - steam
       
     remove:
       # example: removing firefox (in favor of the flatpak)
