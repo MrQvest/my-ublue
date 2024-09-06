@@ -54,6 +54,19 @@ modules:
       # Flatpak runtimes are not supported (like org.winehq.Wine//stable-23.08),
       # only normal flatpak applications are (like Floorp Lightning web browser in this example).
       # Installing different branches of the same Flatpak is not supported.
+      - com.github.Anuken.Mindustry
+      - com.github.wwmm.easyeffects
+      - com.heroicgameslauncher.hgl
+      - com.obsproject.Studio
+      - dev.vencord.Vesktop
+      - md.obsidian.Obsidian
+      - org.gimp.GIMP
+      - org.kde.kdenlive
+      - org.keepassxc.KeePassXC
+      - org.localsend.localsend_app
+      - org.prismlauncher.PrismLauncher
+      - org.qbittorrent.qBittorrent
+      
       remove:
       # - org.gnome.eog
 
