@@ -27,6 +27,7 @@ modules:
       - fish
       - fastfetch
       - steam
+      - libreoffice
       
     remove:
       # example: removing firefox (in favor of the flatpak)
