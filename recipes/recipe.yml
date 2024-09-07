@@ -29,6 +29,7 @@ modules:
       - steam
       - dwarffortress
       - libreoffice
+      - autocorr-pt
       - inkscape
       - solaar
       
