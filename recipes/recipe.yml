@@ -76,6 +76,7 @@ modules:
       - org.prismlauncher.PrismLauncher
       - org.qbittorrent.qBittorrent
       - io.mpv.Mpv
+      - org.kde.gwenview
       
       remove:
       # - org.gnome.eog
