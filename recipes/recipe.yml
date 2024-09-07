@@ -47,6 +47,7 @@ modules:
       - firewall-config
       - kdebugsettings
       - kjournald
+      - kjournald-libs
 
   - type: default-flatpaks
     notify: true # Send notification after install/uninstall is finished (true/false)
@@ -74,6 +75,7 @@ modules:
       - org.localsend.localsend_app
       - org.prismlauncher.PrismLauncher
       - org.qbittorrent.qBittorrent
+      - io.mpv.Mpv
       
       remove:
       # - org.gnome.eog
