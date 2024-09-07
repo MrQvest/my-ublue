@@ -30,6 +30,7 @@ modules:
       - dwarffortress
       - libreoffice
       - autocorr-pt
+      - libreoffice-langpack-pt-BR
       - inkscape
       - solaar
       
