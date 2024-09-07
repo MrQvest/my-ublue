@@ -30,6 +30,7 @@ modules:
       - dwarffortress
       - libreoffice
       - inkscape
+      - solaar
       
     remove:
       # example: removing firefox (in favor of the flatpak)
