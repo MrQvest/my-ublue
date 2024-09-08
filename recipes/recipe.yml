@@ -53,6 +53,9 @@ modules:
       - kdebugsettings
       - kjournald
       - kjournald-libs
+      - vim
+
+  - type: brew
 
   - type: default-flatpaks
     notify: true # Send notification after install/uninstall is finished (true/false)
