@@ -53,7 +53,8 @@ modules:
       - kdebugsettings
       - kjournald
       - kjournald-libs
-      #- vim
+      - vim
+      - vim-enhanced
 
   - type: brew
     auto-update: true
