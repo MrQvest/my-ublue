@@ -23,6 +23,7 @@ modules:
       # - micro
       # - starship
       - audacious
+      - thunderbird
       - torbrowser-launcher
       - neovim
       - fish
