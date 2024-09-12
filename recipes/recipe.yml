@@ -25,16 +25,9 @@ modules:
       - audacious
       - thunderbird
       - torbrowser-launcher
-      - neovim
       - fish
       - fastfetch
       - steam
-      - dwarffortress
-      - libreoffice
-      - autocorr-pt
-      - libreoffice-langpack-pt-BR
-      - inkscape
-      - solaar
       - nerd-fonts
       
     remove:
