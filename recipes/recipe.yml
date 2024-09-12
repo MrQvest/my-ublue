@@ -31,20 +31,12 @@ modules:
       # "firefox" is the main package, "firefox-langpacks" is a dependency
       # - firefox
       # - firefox-langpacks # also remove firefox dependency (not required for all packages, this is a special case)
-      - kate
-      - kate-krunner-plugin
-      - kate-plugins
-      - kcharselect
-      - kfind
-      - krfb
-      - krfb-libs
       - kwalletmanager5
       - firewall-config
       - kdebugsettings
       - kjournald
       - kjournald-libs
       - vim-enhanced
-      - rp-config
       - fcitx5
       - input-remapper
       - krdp
