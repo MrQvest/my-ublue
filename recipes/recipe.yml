@@ -40,6 +40,7 @@ modules:
       - fcitx5
       - fcitx5-mozc
       - fcitx5-data
+      - fcitx5-chinese-addons
       - input-remapper
       - krdp
 
