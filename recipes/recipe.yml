@@ -39,6 +39,7 @@ modules:
       - vim-enhanced
       - fcitx5
       - fcitx5-mozc
+      - fcitx5-data
       - input-remapper
       - krdp
 
