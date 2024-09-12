@@ -44,6 +44,11 @@ modules:
       - kjournald
       - kjournald-libs
       - vim-enhanced
+      - rp-config
+      - fcitx5
+      - input-remapper
+      - kbd-layout-viewer5
+      - krdpserver
 
   - type: brew
     auto-update: true
