@@ -38,6 +38,7 @@ modules:
       - kjournald-libs
       - vim-enhanced
       - fcitx5
+      - fcitx5-mozc
       - input-remapper
       - krdp
 
