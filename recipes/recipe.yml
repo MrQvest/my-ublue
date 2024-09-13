@@ -47,6 +47,7 @@ modules:
       - input-remapper
       - krdp
       - fcitx5
+      - fcitx5-mozc
 
   - type: brew
     auto-update: true
