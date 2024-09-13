@@ -48,6 +48,7 @@ modules:
       - krdp
       - fcitx5
       - fcitx5-mozc
+      - fcitx5-data
 
   - type: brew
     auto-update: true
