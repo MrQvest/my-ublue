@@ -46,6 +46,7 @@ modules:
       - vim-enhanced
       - input-remapper
       - krdp
+      - fcitx5
 
   - type: brew
     auto-update: true
