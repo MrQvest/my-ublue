@@ -46,7 +46,6 @@ modules:
       - kjournald-libs
       - vim-enhanced
       - input-remapper
-      - krdp
 
   - type: brew
     auto-update: true
