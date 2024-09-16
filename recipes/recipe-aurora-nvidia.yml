@@ -37,8 +37,6 @@ modules:
       - kate-plugins
       - kcharselect
       - kfind
-      - krfb
-      - krfb-libs
       - kwalletmanager5
       - firewall-config
       - kdebugsettings
