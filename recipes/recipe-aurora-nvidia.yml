@@ -25,7 +25,7 @@ modules:
       - thunderbird
       - torbrowser-launcher
       - firefox
-      - steam
+      # - steam
       
     remove:
       # example: removing firefox (in favor of the flatpak)
